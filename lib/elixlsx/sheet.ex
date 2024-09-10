@@ -101,7 +101,6 @@ defmodule Elixlsx.Sheet do
   """
 
   def set_cell(sheet, index, content, opts \\ []) when is_binary(index) do
-    IO.inspect("Tanya Test") # TODO: temp
     {row, col} = Util.from_excel_coords0(index)
     set_at(sheet, row, col, content, opts)
   end
