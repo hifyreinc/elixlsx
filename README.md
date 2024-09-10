@@ -1,5 +1,7 @@
 # Elixlsx
 
+**_FORK NOTE:_** _Forked with changes based on [this commit](https://github.com/xou/elixlsx/pull/91/commits/1938780a4dbc362b0f97256cdd21098b5f200e30) by [samueljmurray](https://github.com/xou/elixlsx/commits?author=samueljmurray) to add protection to cells_
+
 [![Build Status](https://travis-ci.com/xou/elixlsx.svg?branch=master)](https://travis-ci.org/xou/elixlsx)
 [![Module Version](https://img.shields.io/hexpm/v/elixlsx.svg)](https://hex.pm/packages/elixlsx)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-lightgreen.svg)](https://hexdocs.pm/elixlsx/)
